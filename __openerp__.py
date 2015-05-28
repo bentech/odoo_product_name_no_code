@@ -10,7 +10,7 @@
     """,
     'author': 'Ben Swanson',
     'website': 'https://github.com/bentech',
-    'depends': [],
+    'depends': ['product'],
     'init_xml': [],
     'data': [],
     'demo_xml': [],
